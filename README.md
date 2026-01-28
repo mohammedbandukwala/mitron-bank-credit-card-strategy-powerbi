@@ -64,5 +64,13 @@ The dashboard converts raw data into **business-focused insights and recommendat
 - Strategy-oriented analytics  
 
 ---
-## 📁 Project Structure
+## 👤 Author
 
+**Mohammed Bandukwala**  
+BCA | Aspiring Data Analyst / Data Scientist  
+
+---
+
+## ⭐ If you like this project
+
+Give the repo a star ⭐ to support my work!
