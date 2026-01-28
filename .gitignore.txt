@@ -1,0 +1,17 @@
+# Power BI temp & backup files
+*.tmp
+*.log
+*.bak
+*.pbi
+*.pbix.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python (if added later)
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
